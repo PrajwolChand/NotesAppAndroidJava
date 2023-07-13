@@ -13,9 +13,11 @@ Features 🔥
 ⏰ SET CUSTOM 📅 REMINDER
 
 Framework Used 🌟
+
 📱 Android Studio (Java)
 
 Components Used 〽️
+
 ✔️ EditText
 
 ✔️ TextView
